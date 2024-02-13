@@ -20,7 +20,7 @@ function print_color(){
   echo -e "${COLOR} $2 ${NC}"
 }
 
-#######################################
+##########################################
 # Check the status of a given service. If not active exit script
 # Arguments:
 #   Service Name. eg: firewalld, mariadb
